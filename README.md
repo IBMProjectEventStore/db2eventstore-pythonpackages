@@ -7,6 +7,4 @@ Steps for using the DB2 Event Store python library
 
 
 
-Release 1.1.3   python packages located on 1.1.3   branch.
-Release 2.0     python packages located on 2.0     branch.
-Release 2.0.0.3 python packages located on 2.0.0.3 branch.
+1.1.3 python packages located on 1.1.3 branch.
