@@ -1,4 +1,4 @@
-**This branch contains Python SDK for IBM Db2 EventStore version v2.0.0.5.**
+**This branch contains Python SDK for IBM Db2 EventStore version v2.0.1.0**
 
 Steps for using the DB2 Event Store python library
 
