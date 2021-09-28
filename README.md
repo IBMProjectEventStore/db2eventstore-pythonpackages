@@ -6,7 +6,10 @@ Steps for using the DB2 Event Store python library
 
 1. Download the `python.tar` file
 2. Run `tar -xvf python.tar` to extract the file
-3. Add the directory to PYTHONPATH environment variable. export PYTHONPATH="${PYTHONPATH}:\<path to eventstore\>"
+3. Add the directory to `PYTHONPATH` environment variable by running this command but enter the correct value of `<path to eventstore\>` below
+```
+export PYTHONPATH="${PYTHONPATH}:\<path to eventstore\>"
+```
 
 
 
